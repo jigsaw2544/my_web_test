@@ -22,7 +22,7 @@ const HeroSection = () => {
             <br></br>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-300 to-secondary-400">
               <TypeAnimation
-                sequence={["Jigsaw", 1000, "Engineering", 1000]}
+                sequence={["Jigsaw", 1000, "Engineer", 1000]}
                 wrapper="span"
                 speed={10}
                 repeat={Infinity}
