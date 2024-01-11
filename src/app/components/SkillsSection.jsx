@@ -18,7 +18,7 @@ function SkillsSection() {
   return (
     <div className="container">
       <h1 className="title-text text-4xl font-bold">My Experience coding</h1>
-      <div className="text-lg-white">
+      <div className="text-lg">
         {/* Toggle button */}
         <button onClick={toggleSkillsVisibility} className="toggle-button">
           {areSkillsVisible ? "Hide Skills" : "Show Skills"}
