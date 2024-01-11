@@ -140,3 +140,9 @@
   );
   transform: translateX(-50%) rotate(45deg);
 }
+/* toggle-button */
+.toggle-button {
+  color: #ffffff;
+  font-weight: 500;
+}
+
